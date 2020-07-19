@@ -1,3 +1,3 @@
 # YTBotJS
 
-Another Discord bot
+Migrated on : https://gitea.skitdev.icu/SkitDev/YTBotJS
